@@ -32,8 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
-
-remote_theme: pages-themes/cayman
+remote_theme: benbalter/retlab
 plugins:
 - jekyll-feed
 - jekyll-remote-theme # add this line to the plugins list if you already have one
