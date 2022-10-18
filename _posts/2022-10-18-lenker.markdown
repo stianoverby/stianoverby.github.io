@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Nyttige linker"
+date:   2022-10-18 10:30:00 +0200
+categories: jekyll update
+---
+
+Daglig [standup] [zoom].
+Dokumentasjon [Nais] [nais-doc].
+Fordeling av oppgaver [Jira] [jira].
+
+[zoom]: https://nav-it.zoom.us/j/7150080668
+[nais-doc]:   https://github.com/jekyll/jekyll
+[jira]: https://jira.adeo.no/
