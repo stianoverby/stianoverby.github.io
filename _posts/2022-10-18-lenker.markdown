@@ -17,9 +17,7 @@ En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør væ
 
 [**Guide til hvordan sette opp mac**] [oppsett-mac]
 
-Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Mac har ingen brukervennlig pakkehåndterer, så start med å installere homebrew. 
-
-Du er nødt til å laste ned:
+Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
 - **homebrew**
   - Pakkehåndterer for MAC
 - **naisdevice**
