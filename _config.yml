@@ -30,7 +30,6 @@ url: "https://stianoverby.github.io/" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-content: "random"
 # Build settings
 # theme: no-style-please
 remote_theme: riggraz/no-style-please
