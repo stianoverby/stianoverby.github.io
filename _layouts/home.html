@@ -7,7 +7,6 @@ layout: default
   <ul>
     {% for post in site.posts %}
       <li>
-        {{ site.content }}
         {{ post.date | date: site.theme_config.date_format }} <a href="{{ post.url }}">{{ post.title | downcase }}</a>
       </li>
     {% endfor %}
