@@ -40,7 +40,6 @@ theme_config:
   show_descripton: true
 plugins:
 - jekyll-feed
-- jekyll-remote-theme 
 
 markdown: kramdown
 
