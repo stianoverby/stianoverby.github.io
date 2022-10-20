@@ -17,6 +17,9 @@ En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør væ
 
 [**Guide til hvordan sette opp mac**] [oppsett-mac]
 
+## Oppdater mac
+{: .subheading}
+
 Start med å oppdatere macen til nyeste macOS versjon.
 1. Velg Systemvalg fra Apple-menyen  i venstre hjørnet av skjermen.
 2. Klikk på Programvareoppdatering i Systemvalg-vinduet.
@@ -104,5 +107,11 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
     color: 	#202020;
     font-weight:700;
     font-size:30px;
+}
+
+.subheading {
+    color: #000066;
+    font-weight:700;
+    font-size:20px;
 }
 </style>
