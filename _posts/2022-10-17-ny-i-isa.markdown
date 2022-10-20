@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Ny i internsamhandling"
+date:   2022-10-17 09:00:00 +0200
+categories: jekyll update
+---
+
+# Guide For Nye Teammedlemmer
+{: .heading}
+
+[**Guide**] [oppstart-teammedlem]
+
+En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
+
+# Oppsett Av MAC
+{: .heading}
+
+[**Guide til hvordan sette opp mac**] [oppsett-mac]
+
+Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
+- **homebrew**
+  - Pakkehåndterer for MAC
+- **naisdevice**
+  - Program som gir deg tilgang til nav sine interne tjenester. Baserer seg på WireGuard(VPN) for tilkobling, og Kolide for å sikre at enheten din følger anbefalt sikkherhetshygiene. 
+- **git**
+  - Nav bruker git for versjonskontroll
+- **intelliJ (anbefales)**
+  - Be om lisens i slack kanalen \#intellij-lisenserver
+- **kubernetes**
+- **java 11**
+
+# Stand-Up Møter 
+{: .heading}
+
+[**Zoom-rom**] [zoom]
+
+Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager på kontoret, det vil si _mandag, onsdag og fredag_. Møtene utføres på zoom i break-out rommet som er dedikert til teamet.
+
+
+# Naisdevice
+{: .heading}
+[**Dokumentasjon**] [nais-doc]
+
+
+# Oppgavefordeling
+{: .heading}
+
+[**Jira**] [jira]
+
+Fordeling av oppgaver 
+
+
+# GoSys
+{: .heading}
+
+[**Kjør Gosys lokalt**] [gosys-local]
+
+[**Kjør GoSys i testmiljø**] [gosys-q2]
+
+GoSys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene GoSys tilbyr. 
+
+
+# Syntetiske Data Med Dolly
+{: .heading}
+
+[**Dolly**] [dolly]
+
+Dolly er NAVs selvbetjeningsløsning for å opprette syntestiske data. I Dolly kan du opprette syntetiske personer med forskjellige egenskaper, og tilgjengeliggjøre dataene i valgte testmiljøer.
+
+
+# Administrasjon Av Testidenter (IDA) 
+{: .heading}
+
+[**IDA**] [ida]
+
+[**Dokumentasjon**] [ida-doc]
+
+IDA er et verktøy som brukes til å lage såkalte testidenter eller testbrukere. Disse anvendes i GoSys, men brukes også på tvers av NAV for testing av systemer. 
+
+
+# Github
+{: .heading}
+[**Github navikt**] [nav-ikt]
+
+Navikt har en egen githubside som inneholder både offentlige og interne repositories.
+
+# Kubernetes
+{: .heading}
+
+# Slack
+{: .heading}
+
+# Logger Og Monitorering Av Applikasjoner
+{: .heading}
+
+
+[oppstart-teammedlem]: https://confluence.adeo.no/display/TIS/Oppstart+nytt+teammedlem
+
+[oppsett-mac]: https://confluence.adeo.no/display/TIS/Oppsett+ny+Mac
+
+[zoom]: https://nav-it.zoom.us/j/7150080668
+
+[nais-doc]: https://doc.nais.io/device/
+
+[jira]: https://jira.adeo.no/
+
+[gosys-local]: http://localhost:8085/gosys
+[gosys-q2]: https://gosys.dev.intern.nav.no/gosys/
+[gosys-doc]: https://confluence.adeo.no/display/ATOM/GOSYS
+
+[dolly]: https://dolly.ekstern.dev.nav.no/login
+
+[ida]: https://ida.intern.nav.no/
+[ida-doc]: https://confluence.adeo.no/display/ATOM/IDA
+
+[nav-ikt]: https://github.com/navikt
+
+
+
+
+<style>
+.heading {
+    color: 	#202020;
+    font-weight:700;
+    font-size:30px;
+}
+</style>
