@@ -17,6 +17,14 @@ En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør væ
 
 [**Guide til hvordan sette opp mac**] [oppsett-mac]
 
+Start med å oppdatere macen til nyeste macOS versjon.
+1. Velg Systemvalg fra Apple-menyen  i venstre hjørnet av skjermen.
+2. Klikk på Programvareoppdatering i Systemvalg-vinduet.
+3. Programvareoppdatering ser nå etter ny programvare.
+   - Hvis Programvareoppdatering finner ny programvare, klikker du på Oppdater nå eller Oppgrader nå for å installere den.
+
+Finner du ikke programvareoppdatering? [Gå til apple support] [apple-support]
+
 Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
 - **homebrew**
   - Pakkehåndterer for MAC
@@ -50,33 +58,6 @@ Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager p�
 Fordeling av oppgaver 
 
 
-# GoSys
-{: .heading}
-
-[**Kjør Gosys lokalt**] [gosys-local]
-
-[**Kjør GoSys i testmiljø**] [gosys-q2]
-
-GoSys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene GoSys tilbyr. 
-
-
-# Syntetiske Data Med Dolly
-{: .heading}
-
-[**Dolly**] [dolly]
-
-Dolly er NAVs selvbetjeningsløsning for å opprette syntestiske data. I Dolly kan du opprette syntetiske personer med forskjellige egenskaper, og tilgjengeliggjøre dataene i valgte testmiljøer.
-
-
-# Administrasjon Av Testidenter (IDA) 
-{: .heading}
-
-[**IDA**] [ida]
-
-[**Dokumentasjon**] [ida-doc]
-
-IDA er et verktøy som brukes til å lage såkalte testidenter eller testbrukere. Disse anvendes i GoSys, men brukes også på tvers av NAV for testing av systemer. 
-
 
 # Github
 {: .heading}
@@ -90,13 +71,13 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 # Slack
 {: .heading}
 
-# Logger Og Monitorering Av Applikasjoner
-{: .heading}
 
 
 [oppstart-teammedlem]: https://confluence.adeo.no/display/TIS/Oppstart+nytt+teammedlem
 
 [oppsett-mac]: https://confluence.adeo.no/display/TIS/Oppsett+ny+Mac
+
+[apple-support]: https://support.apple.com/no-no/HT201541#oldmacos
 
 [zoom]: https://nav-it.zoom.us/j/7150080668
 
