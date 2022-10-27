@@ -5,30 +5,6 @@ date:   2022-10-18 10:30:00 +0200
 categories: jekyll update
 ---
 
-# Guide For Nye Teammedlemmer
-{: .heading}
-
-[**Guide**] [oppstart-teammedlem]
-
-En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
-
-# Oppsett Av MAC
-{: .heading}
-
-[**Guide til hvordan sette opp mac**] [oppsett-mac]
-
-Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
-- **homebrew**
-  - Pakkehåndterer for MAC
-- **naisdevice**
-  - Program som gir deg tilgang til nav sine interne tjenester. Baserer seg på WireGuard(VPN) for tilkobling, og Kolide for å sikre at enheten din følger anbefalt sikkherhetshygiene. 
-- **git**
-  - Nav bruker git for versjonskontroll
-- **intelliJ (anbefales)**
-  - Be om lisens i slack kanalen \#intellij-lisenserver
-- **kubernetes**
-- **java 11**
-
 # Stand-Up Møter 
 {: .heading}
 
@@ -37,17 +13,12 @@ Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som u
 Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager på kontoret, det vil si _mandag, onsdag og fredag_. Møtene utføres på zoom i break-out rommet som er dedikert til teamet.
 
 
-# Naisdevice
-{: .heading}
-[**Dokumentasjon**] [nais-doc]
-
-
 # Oppgavefordeling
 {: .heading}
 
 [**Jira**] [jira]
 
-Fordeling av oppgaver 
+Verktøy for smidig utvikling. Brukes til å følge opp innmeldte saker (bugs), samt oppretelse og fordeling av oppgaver 
 
 
 # GoSys
@@ -56,6 +27,10 @@ Fordeling av oppgaver
 [**Kjør Gosys lokalt**] [gosys-local]
 
 [**Kjør GoSys i testmiljø**] [gosys-q2]
+
+[**Kort introduksjon til GoSys**] [gosys-doc1]
+
+[**Dokumentasjon**] [gosys-doc2]
 
 GoSys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene GoSys tilbyr. 
 
@@ -90,6 +65,12 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 # Slack
 {: .heading}
 
+[**Last ned slack**] [slack]
+
+Slack er vår kommunikasjonskanal intært i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
+
+Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man entent navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
+
 # Logger Og Monitorering Av Applikasjoner
 {: .heading}
 
@@ -106,7 +87,8 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 
 [gosys-local]: http://localhost:8085/gosys
 [gosys-q2]: https://gosys.dev.intern.nav.no/gosys/
-[gosys-doc]: https://confluence.adeo.no/display/ATOM/GOSYS
+[gosys-doc1]: https://confluence.adeo.no/display/ATOM/GOSYS
+[gosys-doc2] https://navno.sharepoint.com/sites/fag-og-ytelser-fagsystemer/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2Ffag%2Dog%2Dytelser%2Dfagsystemer%2FDelte%20dokumenter%2FGosys%2FBrukerh%C3%A5ndb%C3%B8ker%20og%20brukerveiledninger%2FBrukerveiledning%20Gosys%2Epdf&parent=%2Fsites%2Ffag%2Dog%2Dytelser%2Dfagsystemer%2FDelte%20dokumenter%2FGosys%2FBrukerh%C3%A5ndb%C3%B8ker%20og%20brukerveiledninger
 
 [dolly]: https://dolly.ekstern.dev.nav.no/login
 
@@ -115,7 +97,7 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 
 [nav-ikt]: https://github.com/navikt
 
-
+[slack]: munki://detail-Slack.html
 
 
 <style>
