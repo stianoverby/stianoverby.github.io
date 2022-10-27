@@ -32,21 +32,16 @@ Finner du ikke programvareoppdatering? [Gå til apple support] [apple-support]
 {: .subheading}
 
 Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
-**homebrew**
+- **homebrew**
   - Pakkehåndterer for MAC
-
-**naisdevice**
+- **naisdevice**
   - Program som gir deg tilgang til nav sine interne tjenester. Baserer seg på WireGuard(VPN) for tilkobling, og Kolide for å sikre at enheten din følger anbefalt sikkherhetshygiene. 
-
-**git**
+- **git**
   - Nav bruker git for versjonskontroll
-
-**intelliJ (anbefales)**
+- **intelliJ (anbefales)**
   - Be om lisens i slack kanalen \#intellij-lisenserver
-
-**kubernetes**
-
-**java 11**
+- **kubernetes**
+- **java 11**
 
 # Naisdevice
 {: .heading}
