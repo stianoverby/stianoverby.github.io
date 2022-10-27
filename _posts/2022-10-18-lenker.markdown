@@ -18,10 +18,10 @@ Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager p�
 
 [**Jira**] [jira]
 
-Verktøy for smidig utvikling. Brukes til å følge opp innmeldte saker (bugs), samt oppretelse og fordeling av oppgaver 
+Verktøy for smidig utvikling. Brukes til å følge opp innmeldte saker (bugs), samt opprettelse og fordeling av oppgaver 
 
 
-# GoSys
+# Gosys
 {: .heading}
 
 [**Kjør gosys lokalt**] [gosys-local]
