@@ -52,12 +52,15 @@ Dolly er NAVs selvbetjeningsløsning for å opprette syntestiske data. I Dolly k
 
 IDA er et verktøy som brukes til å lage såkalte testidenter eller testbrukere. Disse anvendes i GoSys, men brukes også på tvers av NAV for testing av systemer. 
 
-
 # Github
 {: .heading}
 [**Github navikt**] [nav-ikt]
 
 Navikt har en egen githubside som inneholder både offentlige og interne repositories.
+
+[**Team ISA repositories**] [isa-github]
+
+En oversikt over alle repositories som administreres av team ISA. 
 
 # Logger Og Monitorering Av Applikasjoner
 {: .heading}
@@ -91,6 +94,7 @@ Grafana er et visualiseringsverktøy for statistikk. Vi bruker det for å varsle
 [ida-doc]: https://confluence.adeo.no/display/ATOM/IDA
 
 [nav-ikt]: https://github.com/navikt
+[isa-github]: https://github.com/orgs/navikt/teams/isa/repositories
 
 [log]: https://logs.adeo.no/
 [grafana]: https://grafana.nais.io/?orgId=1
