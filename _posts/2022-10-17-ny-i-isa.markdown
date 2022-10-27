@@ -43,25 +43,6 @@ Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som u
 - **kubernetes**
 - **java 11**
 
-# Naisdevice
-{: .heading}
-
-[**Installer Naisdevice**] [nais-installer]
-
-Naisdevice er et vertøy for NAV ansatte for å koble seg til internetjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
-
-
-# Github
-{: .heading}
-[**Github navikt**] [nav-ikt]
-
-Navikt har en egen githubside som inneholder både offentlige og interne repositories.
-
-# Kubernetes
-{: .heading}
-
-[**Installer kubernetes og tilhørende verktøy**] [kubernetes]
-
 # Slack
 {: .heading}
 
@@ -72,6 +53,24 @@ Slack er vår kommunikasjonskanal intært i team ISA, men også på tvers av tea
 Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. 
 
 Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man entent navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
+
+# Naisdevice
+{: .heading}
+
+[**Installer Naisdevice**] [nais-installer]
+
+Naisdevice er et vertøy for NAV ansatte for å koble seg til internetjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
+
+# Kubernetes
+{: .heading}
+
+[**Installer kubernetes og tilhørende verktøy**] [kubernetes]
+
+# Github
+{: .heading}
+[**Github navikt**] [nav-ikt]
+
+Navikt har en egen githubside som inneholder både offentlige og interne repositories.
 
 [nais-installer]: https://doc.nais.io/device/install/
 
@@ -87,8 +86,6 @@ Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Softw
 
 [slack]: munki://detail-Slack.html
 
-
-
 <style>
 .heading {
     color: 	#202020;
@@ -97,7 +94,7 @@ Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Softw
 }
 
 .subheading {
-    color: #000066;
+    color: #202020;
     font-weight:700;
     font-size:20px;
 }
