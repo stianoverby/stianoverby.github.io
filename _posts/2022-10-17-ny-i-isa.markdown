@@ -48,7 +48,7 @@ Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som u
 
 [**Last ned slack**] [slack]
 
-Slack er vår kommunikasjonskanal intært i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
+Slack er vår kommunikasjonskanal internt i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
 
 Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. 
 
@@ -59,7 +59,7 @@ Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Softw
 
 [**Installer Naisdevice**] [nais-installer]
 
-Naisdevice er et vertøy for NAV ansatte for å koble seg til internetjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
+Naisdevice er et vertøy for NAV ansatte for å koble seg til internettjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
 
 # Kubernetes
 {: .heading}
@@ -79,7 +79,7 @@ For å gjøre endringer på repoene som eies av navit, er du nødt til å ha bå
 
 [**Hvordan konfigurere SSH med Github**] [github-ssh]
 
-Skriv til github respositorisene ved bruk av SSH. Du unngåt å måtte skrive inn passord hver gang du skal gjøre en operasjon mot github. Utrolig praktisk!
+Skriv til github respositorisene ved bruk av SSH. Du unngår å måtte skrive inn passord hver gang du skal gjøre en operasjon mot github. Utrolig praktisk!
 
 [nais-installer]: https://doc.nais.io/device/install/
 
