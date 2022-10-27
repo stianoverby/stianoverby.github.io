@@ -10,8 +10,6 @@ categories: jekyll update
 
 [**Guide**] [oppstart-teammedlem]
 
-[**Oppsett av mac**] [oppsett-mac]
-
 En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
 
 # Oppsett Av MAC
@@ -23,24 +21,32 @@ En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør væ
 {: .subheading}
 
 Start med å oppdatere macen til nyeste macOS versjon.
+
 1. Velg Systemvalg fra Apple-menyen  i venstre hjørnet av skjermen.
 2. Klikk på Programvareoppdatering i Systemvalg-vinduet.
-3. Programvareoppdatering ser nå etter ny programvare.
-   - Hvis Programvareoppdatering finner ny programvare, klikker du på Oppdater nå eller Oppgrader nå for å installere den.
+3. Programvareoppdatering ser nå etter ny programvare. Hvis Programvareoppdatering finner ny programvare, klikker du på Oppdater nå eller Oppgrader nå for å installere den.
 
 Finner du ikke programvareoppdatering? [Gå til apple support] [apple-support]
 
+## Installering av programvare
+{: .subheading}
+
 Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som utvikler har du behov for en rekke verktøy for å komme i gang med jobben din. Du er nødt til å laste ned:
-- **homebrew**
+**homebrew**
   - Pakkehåndterer for MAC
-- **naisdevice**
+
+**naisdevice**
   - Program som gir deg tilgang til nav sine interne tjenester. Baserer seg på WireGuard(VPN) for tilkobling, og Kolide for å sikre at enheten din følger anbefalt sikkherhetshygiene. 
-- **git**
+
+**git**
   - Nav bruker git for versjonskontroll
-- **intelliJ (anbefales)**
+
+**intelliJ (anbefales)**
   - Be om lisens i slack kanalen \#intellij-lisenserver
-- **kubernetes**
-- **java 11**
+
+**kubernetes**
+
+**java 11**
 
 # Naisdevice
 {: .heading}
@@ -75,8 +81,6 @@ Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Softw
 [nais-installer]: https://doc.nais.io/device/install/
 
 [oppstart-teammedlem]: https://confluence.adeo.no/display/TIS/Oppstart+nytt+teammedlem
-
-[oppsett-mac]: https://confluence.adeo.no/display/TIS/Oppsett+ny+Mac
 
 [oppsett-mac]: https://confluence.adeo.no/display/TIS/Oppsett+ny+Mac
 
