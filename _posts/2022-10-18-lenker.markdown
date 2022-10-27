@@ -24,15 +24,15 @@ Verktøy for smidig utvikling. Brukes til å følge opp innmeldte saker (bugs), 
 # GoSys
 {: .heading}
 
-[**Kjør Gosys lokalt**] [gosys-local]
+[**Kjør gosys lokalt**] [gosys-local]
 
-[**Kjør GoSys i testmiljø**] [gosys-q2]
+[**Kjør gosys i testmiljø**] [gosys-q2]
 
-[**Kort introduksjon til GoSys**] [gosys-doc1]
+[**Kort introduksjon til gosys**] [gosys-doc1]
 
-[**Brukerveiledning til GoSys**] [gosys-doc2]
+[**Brukerveiledning til gosys**] [gosys-doc2]
 
-GoSys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene GoSys tilbyr. 
+Gosys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene Gosys tilbyr. 
 
 
 # Syntetiske Data Med Dolly
