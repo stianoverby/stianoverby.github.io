@@ -40,26 +40,8 @@ Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som u
 - **kubernetes**
 - **java 11**
 
-# Stand-Up Møter 
-{: .heading}
-
-[**Zoom-rom**] [zoom]
-
-Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager på kontoret, det vil si _mandag, onsdag og fredag_. Møtene utføres på zoom i break-out rommet som er dedikert til teamet.
-
-
 # Naisdevice
 {: .heading}
-[**Dokumentasjon**] [nais-doc]
-
-
-# Oppgavefordeling
-{: .heading}
-
-[**Jira**] [jira]
-
-Fordeling av oppgaver 
-
 
 
 # Github
@@ -74,6 +56,13 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 # Slack
 {: .heading}
 
+[**Last ned slack**] [slack]
+
+Slack er vår kommunikasjonskanal intært i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
+
+Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. 
+
+Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man entent navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
 
 
 [oppstart-teammedlem]: https://confluence.adeo.no/display/TIS/Oppstart+nytt+teammedlem
@@ -82,23 +71,9 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 
 [apple-support]: https://support.apple.com/no-no/HT201541#oldmacos
 
-[zoom]: https://nav-it.zoom.us/j/7150080668
-
-[nais-doc]: https://doc.nais.io/device/
-
-[jira]: https://jira.adeo.no/
-
-[gosys-local]: http://localhost:8085/gosys
-[gosys-q2]: https://gosys.dev.intern.nav.no/gosys/
-[gosys-doc]: https://confluence.adeo.no/display/ATOM/GOSYS
-
-[dolly]: https://dolly.ekstern.dev.nav.no/login
-
-[ida]: https://ida.intern.nav.no/
-[ida-doc]: https://confluence.adeo.no/display/ATOM/IDA
-
 [nav-ikt]: https://github.com/navikt
 
+[slack]: munki://detail-Slack.html
 
 
 
