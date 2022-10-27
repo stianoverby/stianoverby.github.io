@@ -68,9 +68,18 @@ Naisdevice er et vertøy for NAV ansatte for å koble seg til internetjenester. 
 
 # Github
 {: .heading}
-[**Github navikt**] [nav-ikt]
 
-Navikt har en egen githubside som inneholder både offentlige og interne repositories.
+[**Github navikt**] [github-ikt]
+
+For å gjøre endringer på repoene som eies av navit, er du nødt til å ha både en enterprise lisens til github (denne skal utstedes av nav) og en personal access token (som du er nødt til å generere selv). Får du ikke generert en ny token, kan det hende at du ikke er medlem av teamet, eller ikke har github lisens. Ta dette opp med teamet, så får vi fikset det så raskt som mulig.
+
+1. Klikk på linken over.
+2. Logg inn med din github-bruker.
+3. Trykk på Setttings → Developer Settings → Personal Access Token → Generate new Token. 
+
+[**Hvordan konfigurere SSH med Github**] [github-ssh]
+
+Skriv til github respositorisene ved bruk av SSH. Du unngåt å måtte skrive inn passord hver gang du skal gjøre en operasjon mot github. Utrolig praktisk!
 
 [nais-installer]: https://doc.nais.io/device/install/
 
@@ -80,11 +89,12 @@ Navikt har en egen githubside som inneholder både offentlige og interne reposit
 
 [apple-support]: https://support.apple.com/no-no/HT201541#oldmacos
 
-[nav-ikt]: https://github.com/navikt
-
 [kubernetes]: https://doc.nais.io/basics/access/index.html#install-kubectl
 
 [slack]: munki://detail-Slack.html
+
+[github-ikt]: https://github.com/navikt
+[github-ssh]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 
 <style>
 .heading {
