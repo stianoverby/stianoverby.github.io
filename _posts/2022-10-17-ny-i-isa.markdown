@@ -13,7 +13,7 @@ categories: jekyll update
 En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<span name="button" onclick="http://www.google.com">Click me</span>
 # Oppsett Av MAC
 {: .heading}
 
