@@ -4,7 +4,6 @@ layout: default
 
 <a href="{{ site.url }}">{{ site.theme_config.back_home_text }}</a>
 <h1>{{ page.title }}</h1>
-<button name="button" value="false" id="check" onclick=switch()>Click me</button>
 <script>
   function switch(){
       var button = getElementById("check");
@@ -16,5 +15,6 @@ layout: default
       button.value = "false";
   }
 </script>
+<button name="button" value="false" id="check" onclick=switch()>Click me</button>
 {{ content }}
 
