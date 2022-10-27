@@ -10,7 +10,7 @@ categories: jekyll update
 
 [**Zoom-rom**] [zoom]
 
-Team Internsamhandling har stand-up møter dagene teamet ikke har faste dager på kontoret, det vil si _mandag, onsdag og fredag_. Møtene utføres på zoom i break-out rommet som er dedikert til teamet.
+Team intern samhandling har stand-up møter dagene teamet ikke har faste dager på kontoret, det vil si _mandag, onsdag og fredag_. Møtene utføres på zoom i break-out rommet som er dedikert til teamet.
 
 
 # Oppgavefordeling
@@ -24,16 +24,17 @@ Verktøy for smidig utvikling. Brukes til å følge opp innmeldte saker (bugs), 
 # Gosys
 {: .heading}
 
-[**Kjør Gosys lokalt**] [gosys-local]
-
-[**Kjør Gosys i testmiljø**] [gosys-q2]
-
 [**Kort introduksjon til Gosys**] [gosys-doc1]
 
 [**Brukerveiledning til Gosys**] [gosys-doc2]
 
 Gosys er en felles arbeidsflate for alle saksbehandlere. Team ISA er ansvarlig for både vedlikehold av applikasjonen, hendelshåndtering og modernisering av tjenestene Gosys tilbyr. 
 
+[**Kjør Gosys lokalt**] [gosys-local]
+
+[**Kjør Gosys i testmiljø**] [gosys-q2]
+
+For å teste Gosys kan det være praktisk å teste koden både lokalt og i testmiljø.
 
 # Syntetiske Data Med Dolly
 {: .heading}
@@ -69,9 +70,9 @@ En oversikt over alle repositories som administreres av team ISA.
 
 Alt som logges i applikasjonene våre går til elastic. Dette er et verktøy for monitorering, filtrering og parsering av logger. Er det meldt inn en sak, så er det ofte her man starter for å finne ut hva som er feil.
 
-[**Visualisering av statistikk for GoSys**] [grafana]
+[**Visualisering av statistikk for Gosys**] [grafana]
 
-Grafana er et visualiseringsverktøy for statistikk. Vi bruker det for å varsle om hendelser (kommer som varslinger i Slack), samt illustrere hva GoSys brukes til.
+Grafana er et visualiseringsverktøy for statistikk. Vi bruker det for å varsle om hendelser (kommer som varslinger i Slack), samt illustrere hva Gosys brukes til.
 
 [oppstart-teammedlem]: https://confluence.adeo.no/display/TIS/Oppstart+nytt+teammedlem
 
