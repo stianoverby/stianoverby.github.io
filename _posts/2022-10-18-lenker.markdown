@@ -59,18 +59,6 @@ IDA er et verktøy som brukes til å lage såkalte testidenter eller testbrukere
 
 Navikt har en egen githubside som inneholder både offentlige og interne repositories.
 
-# Kubernetes
-{: .heading}
-
-# Slack
-{: .heading}
-
-[**Last ned slack**] [slack]
-
-Slack er vår kommunikasjonskanal intært i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
-
-Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man entent navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
-
 # Logger Og Monitorering Av Applikasjoner
 {: .heading}
 
@@ -103,8 +91,6 @@ Grafana er et visualiseringsverktøy for statistikk. Vi bruker det for å varsle
 [ida-doc]: https://confluence.adeo.no/display/ATOM/IDA
 
 [nav-ikt]: https://github.com/navikt
-
-[slack]: munki://detail-Slack.html
 
 [log]: https://logs.adeo.no/
 [grafana]: https://grafana.nais.io/?orgId=1
