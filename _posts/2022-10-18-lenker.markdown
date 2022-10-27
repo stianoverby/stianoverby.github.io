@@ -57,7 +57,7 @@ IDA er et verktøy som brukes til å lage såkalte testidenter eller testbrukere
 {: .heading}
 [**Github navikt**] [nav-ikt]
 
-Navikt har en egen githubside som inneholder både offentlige og interne repositories.
+Navikt har en egen github-side som inneholder både offentlige og interne repositories.
 
 [**Team ISA repositories**] [isa-github]
 
