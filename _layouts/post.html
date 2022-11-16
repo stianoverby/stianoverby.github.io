@@ -4,17 +4,5 @@ layout: default
 
 <a href="{{ site.url }}">{{ site.theme_config.back_home_text }}</a>
 <h1>{{ page.title }}</h1>
-<script>
-  function switch(){
-      var button = getElementById("check");
-      
-      if(button.value == "false"){
-        button.value = "true";
-        return;
-      }
-      button.value = "false";
-  }
-</script>
-<button name="button" value="false" id="check" onclick=switch()>Click me</button>
 {{ content }}
 
