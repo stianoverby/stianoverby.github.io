@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   og hvor dokumentasjon og annen spesifikk domenekunnskap ligger. Denne siden tar sikte 
   på å samle lenker og viktig informasjon slik at nyansatte i team ISA lettere kan komme i gang i jobben sin. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stianoverby.github.io/isa" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stianoverby.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
