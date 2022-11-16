@@ -41,7 +41,7 @@ For å teste Gosys kan det være praktisk å teste koden både lokalt og i testm
 
 [**Dolly**] [dolly]
 
-Dolly er NAVs selvbetjeningsløsning for å opprette syntestiske data. I Dolly kan du opprette syntetiske personer med forskjellige egenskaper, og tilgjengeliggjøre dataene i valgte testmiljøer.
+Dolly er NAVs selvbetjeningsløsning for å opprette syntetiske data. I Dolly kan du opprette syntetiske personer med forskjellige egenskaper, og tilgjengeliggjøre dataene i valgte testmiljøer.
 
 
 # Administrasjon Av Testidenter (IDA) 
