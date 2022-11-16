@@ -10,7 +10,7 @@ categories: jekyll update
 
 [**Guide**] [oppstart-teammedlem]
 
-En en guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
+En guide til nye medlemmer av teamet. Guiden gir forslag til hva som bør være på plass de første dagene ved oppstart i teamet.
 
 # Oppsett Av MAC
 {: .heading}
@@ -48,18 +48,18 @@ Nav tilbyr utlån av datamaskiner til sine interne ansatte og konsulenter. Som u
 
 [**Last ned slack**] [slack]
 
-Slack er vår kommunikasjonskanal internt i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig vertøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
+Slack er vår kommunikasjonskanal internt i team ISA, men også på tvers av team og avdelinger i NAV. Også et utrolig nyttig verktøy for å søke opp/spørre om problemstillinger man skulle møte, for som regel har andre møtt på samme problem tidligere.
 
 Slack lastes ned (i liket med andre applikasjoner) fra Managed Software Center. Er du på mac kan rask søke opp Managed Software Center ved hjelp av Spotlight. 
 
-Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man entent navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
+Trykk ⌘Command + space for å få frem søkefeltet, og skriv in "Managed Software Center". Deretter kan man enten navigere gjennom tilgjengelig programvare i "Programvare" fanen, eller bare søke opp applikasjonen man ønsker å laste ned. 
 
 # Naisdevice
 {: .heading}
 
 [**Installer Naisdevice**] [nais-installer]
 
-Naisdevice er et vertøy for NAV ansatte for å koble seg til internettjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
+Naisdevice er et verktøy for NAV ansatte for å koble seg til internettjenester. Det baserer seg på WireGuard for tilkobling, og Kolide sørger for at laptopen din møter NAV sine krav til sikkerhet før det tillater tilgang til interne ressurser.
 
 # Kubernetes
 {: .heading}
